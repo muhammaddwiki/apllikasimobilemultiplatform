@@ -1,0 +1,15 @@
+page-covidinfo {
+    ion-card-content{
+        background-image: url('../../assets/imgs/gradient-bg.svg');
+        background-repeat: no-repeat;
+        background-attachment: scroll !important;
+        width: 100%;
+        height: 100%;
+        margin-top: 0px;
+
+    }
+
+    ion-card-header{
+        background-color: cornflowerblue;
+    }
+}
